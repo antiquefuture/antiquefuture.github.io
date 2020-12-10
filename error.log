@@ -1,56 +1,27 @@
 ----------
 
-Wed Sep 09 2020 21:28:01 GMT-0700 (Pacific Daylight Time)
+Mon Dec 07 2020 10:58:15 GMT-0800 (Pacific Standard Time)
 
-To https://github.com/antiquefuture/antiquefuture.github.io
-   5c90be5..b5e38b9  master -> master
-
-
-----------
-
-Wed Sep 09 2020 21:34:26 GMT-0700 (Pacific Daylight Time)
-
-To https://github.com/antiquefuture/antiquefuture.github.io
-   b5e38b9..de1b5dc  master -> master
+fatal: could not read Username for 'https://github.com': Device not configured
 
 
 ----------
 
-Wed Sep 09 2020 21:34:30 GMT-0700 (Pacific Daylight Time)
+Mon Dec 07 2020 11:10:35 GMT-0800 (Pacific Standard Time)
 
-To https://github.com/antiquefuture/antiquefuture.github.io
-   de1b5dc..891ec6e  master -> master
-
-
-----------
-
-Wed Sep 09 2020 21:35:16 GMT-0700 (Pacific Daylight Time)
-
-To https://github.com/antiquefuture/antiquefuture.github.io
-   891ec6e..1c7d078  master -> master
+fatal: could not read Username for 'https://github.com': Device not configured
 
 
 ----------
 
-Wed Sep 09 2020 21:36:27 GMT-0700 (Pacific Daylight Time)
+Mon Dec 07 2020 11:17:25 GMT-0800 (Pacific Standard Time)
 
-To https://github.com/antiquefuture/antiquefuture.github.io
-   1c7d078..20f7839  master -> master
-
-
-----------
-
-Wed Sep 09 2020 21:37:12 GMT-0700 (Pacific Daylight Time)
-
-To https://github.com/antiquefuture/antiquefuture.github.io
-   20f7839..5f725ff  master -> master
+fatal: could not read Username for 'https://github.com': Device not configured
 
 
 ----------
 
-Wed Sep 09 2020 21:49:09 GMT-0700 (Pacific Daylight Time)
+Mon Dec 07 2020 11:28:39 GMT-0800 (Pacific Standard Time)
 
-To https://github.com/antiquefuture/antiquefuture.github.io
-   507320d..5113ff3  master -> master
-
+Script /Users/singlecell/github/export.sh couldn't be run
 
